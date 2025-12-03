@@ -1,0 +1,8 @@
+kafka:
+ url: "tcp://cloud-services.demos.mulesoft.com:31353"
+ topic: "customer.profile.accessed"
+pg:
+ url: "jdbc:postgresql://cloud-services.demos.mulesoft.com:30520/sampledb"
+ driver: "org.postgresql.Driver"
+ username: "admin"
+ password: "Secure_Demo-2025Pass"

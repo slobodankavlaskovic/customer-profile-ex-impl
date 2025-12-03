@@ -1,0 +1,7 @@
+{
+  "applicationName": "customer-profile-xp-implementation",
+  "runtime": "4.10.1:12e-java17",
+  "replicas": 1,
+  "replicaSize": "0.1",
+  "deploymentModel": "rolling"
+}
